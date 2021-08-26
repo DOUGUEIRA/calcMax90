@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "calcMax90", "calcMax90.pyproj", "{EA7F4D13-5C06-4C9C-93EE-C199AB8B0FFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA7F4D13-5C06-4C9C-93EE-C199AB8B0FFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA7F4D13-5C06-4C9C-93EE-C199AB8B0FFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A452E98-EAC9-49B2-BF57-D5786EC1E0A6}
+	EndGlobalSection
+EndGlobal
